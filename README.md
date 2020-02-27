@@ -68,6 +68,7 @@ The tasks are the things that need to be done in order to make the game, these t
 
 
 These tasks usually have a tracking that will help the team know what it is being done, what has to be done and what is done; this obviously helps organization and efficiency. These tracking changes depending of the company but usually the tasks are divided into these four different groups: to be done (it hasn’t been started yet), to do (someone has started this task), testing (someone has finished but another has to test it to check if it works, usually the QA team) and done (this task has been done and tested and checked that works correctly). This tracking can be done physically with a board and stick notes, however, most companies use softwares that help them do this faster and in their own computers. Two of the most famous softwares used are [Trello](https://trello.com/home) and [HacknPlan](https://hacknplan.com/).
+
 ![](https://github.com/Arnau77/Arnau77.github.io/blob/master/tasks%202.JPG?raw=true)
 
 
