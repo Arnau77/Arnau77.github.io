@@ -1,8 +1,8 @@
 “I am Arnau Falgueras, student of the
-<https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor’s Degree in
-Video Games by UPC at CITM). This content is generated for the second year’s
+[Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). 
+This content is generated for the second year’s
 subject Project 2, under supervision of lecturer
-<https://www.linkedin.com/in/mgarrigo/>(Marc Garrigó).”
+[Marc Garrigó](https://www.linkedin.com/in/mgarrigo/).”
 
 
 ### Production Plan
@@ -47,10 +47,10 @@ The budget (AKA the money) is an important resource that is necessary in order t
 
 
 ## Example of a Production Plan:
-<https://github.com/ChillChiliStudio/Order227/wiki/Production-Plan>(Chill Chili Studio's Production Plan)
+[Chill Chili Studio's Production Plan](https://github.com/ChillChiliStudio/Order227/wiki/Production-Plan)
 
 
-## Websites:
+## Sources:
 https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php
 https://www.slideshare.net/Kelvis2000/game-design-the-production-plan
 http://decibel.fi.muni.cz/pv255/2015/slides/PV255-2015-10--J_Kolar-Produkce.pdf
