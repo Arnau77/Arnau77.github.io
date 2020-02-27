@@ -16,6 +16,8 @@ A Production Plan is a document that helps the team to manage and organize all t
 The Production Plan is an important document mainly because two reasons: 
 
 - Firstly, without it anyone (even probably your own team) will believe that this project will succeed, because without organization (the goal of this plan) most projects end in failure. This point is key when trying to get investors for your game, without a Production Plan, they will not invert.
+
+
 ![](https://github.com/Arnau77/Arnau77.github.io/blob/master/why%20pp%201.JPG?raw=true)
 
 - Secondly, without it, your own team will have problems in doing the game, mostly because as said in the first point, organization is a key factor in the success of a team. Without it, the team will be lost in some moments of the process of creation of the videogame and the progress will slow down and even halt, achieving the end of the project (if finished) in a later date than expected.
